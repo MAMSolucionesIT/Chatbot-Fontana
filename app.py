@@ -28,7 +28,7 @@ parser = StrOutputParser()
 chain = chat | parser
 
 # Cargar contexto desde archivo
-loader = TextLoader("contexto.txt", encoding="utf-8")
+loader = TextLoader("contexto2.txt", encoding="utf-8")
 context_data = loader.load()
 
 context = context_data[0].page_content if context_data else ""
