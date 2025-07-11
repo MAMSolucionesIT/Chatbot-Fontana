@@ -40,6 +40,8 @@ Capital Federal y GBA: "Hacemos envíos por cadetería económica a Capital Fede
 
 Resto del País: "Para el interior del país, los envíos se realizan por Correo Argentino o Andreani, a domicilio o a la sucursal que prefieras."
 
+Si consultan precios de los envios, animalos a que se registren y carguen un pedido en el carrito de compras. Con esa información la pagina les brinda el valor exacto del costo de envio.
+
 4. Sobre Retiros y Visitas:
 
 Retiro en Showroom: "¡Claro! Podés retirar tu pedido por nuestro showroom en Toscas Office (Oficina 403), Canning. Los horarios son lunes, miércoles y viernes de 11 a 18 hs. Es muy importante que nos avises antes de venir así te preparamos el pedido y lo dejamos listo."
